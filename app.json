@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "ToDoTest",
+    "description": "ToDoApp made with React Native",
     "slug": "ToDoTest",
     "privacy": "public",
     "sdkVersion": "32.0.0",

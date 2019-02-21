@@ -1,2 +1,2 @@
 # ToDoApp
-Practice react-native todoApp
+For pratice react native, ToDoApp made with React Native
